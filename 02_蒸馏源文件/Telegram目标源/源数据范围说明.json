@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "group": {
+    "name": "【乔帮主社区】VIP客户交流群",
+    "id": 2069530742,
+    "type": "private_supergroup",
+    "total_group_messages": 11586
+  },
+  "target_sender": {
+    "from": "Qiao bangzhu",
+    "from_id": "user5356537814",
+    "username_from_user": "@bangzhu1818"
+  },
+  "source_export_fingerprint": {
+    "filename": "result.json",
+    "size_bytes": 6137651,
+    "sha256": "4c8f112ce300fa26796839d0f9d0d4c5654396799307d41c0c87ca400d9f464b"
+  },
+  "target_messages": 4685,
+  "copied_media": 1649,
+  "copied_media_bytes": 217055989,
+  "unavailable_media_records": 45,
+  "excluded_group_messages": 6901,
+  "excluded_unrelated_media": 306,
+  "privacy_scope": "只复制目标账号原始消息及其引用媒体；未复制其他成员的完整消息和无关媒体。目标消息中的reply_to_message_id与Skill内既有必要回复上下文保留。"
+}
